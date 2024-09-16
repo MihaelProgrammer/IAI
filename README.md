@@ -1,2 +1,2 @@
 # IAI
-Contains my laboratory code from introduction to AI.
+Contains my laboratory assignments code from introduction to AI.
